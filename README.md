@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, this Jakaria
+Hi, this is Jakaria.
